@@ -1,4 +1,4 @@
-package leecode.algorithm.structure;
+package leecode.structure;
 
 /**
  * @author wind

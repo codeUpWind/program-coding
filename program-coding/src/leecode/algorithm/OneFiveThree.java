@@ -1,6 +1,6 @@
 package leecode.algorithm;
 
-import leecode.algorithm.structure.TreeNode;
+import leecode.structure.TreeNode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
